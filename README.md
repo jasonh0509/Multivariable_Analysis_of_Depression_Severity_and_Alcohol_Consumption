@@ -76,7 +76,7 @@ Findings suggest that the relationship between alcohol use and depression severi
 
 ## Key Deliverables
 - Full Technical Report (`report/Alzheimers-Disease-Predictive Modeling Report.pdf`)
-- Raw SAS Code (`scripts/nhis_raw_project.sas`)
+- Raw SAS Code (`scripts/Multivariable_Analysis_of_Depression_Severity_and_Alcohol_Consumption.sas`)
 - DAG Framework Documentation
 - R Visualization Scripts
 
